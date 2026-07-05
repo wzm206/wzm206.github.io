@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zengmao Wang (王增茂)"
+title                    : "Zengmao Wang"
 description              : ""
 repository               : "wzm206/wzm206.github.io/"
 google_scholar_stats_use_cdn : false
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zengmao Wang (王增茂)"
+  name             : "Zengmao Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Institute of Automation of the Chinese Academy of Sciences"
+  bio              : "Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
