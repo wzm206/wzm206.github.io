@@ -34,7 +34,7 @@ My research interests lie in multimodal understanding and generation. In particu
 <div class='paper-box-text' markdown="1">
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-Deep Residual Learning for Image Recognition
+Predicting Consequences and Reinforcing Navigation Policies with Latent World Models
 
 **Zengmao Wang**, Wei Gao, Shuhan Shen
 
